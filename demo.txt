@@ -1,0 +1,2 @@
+System.out.pritnln("addition");
+System.out.pritnln("multiplication");
